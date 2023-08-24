@@ -124,7 +124,7 @@ function show_project(name){
       description:"Participate in implementing and developing the project.\
       Add ingTamara payment method to the website.",
       skills:["php","laravel","sql","Apis"],
-      images:["assets/img/ethra-t.png","assets/img/ethraa2.jpg"]
+      images:["assets/img/ethraa2.jpg"]
     },
     DarbPrint: {
       name: "Darb Print",
@@ -167,7 +167,7 @@ function show_project(name){
       name: "FarmKem",
       description:"farmkem is an online store puild in OOP php architect that I helped in development by increasing the features of the system. Creating the module of Admin control over his products and giving financial reports to him plus installing a responsive template to the front end of the site.",
       skills:["MySQL", "Web Development", "PHP","API Integration", "Laravel","Vue.js", "Database Architecture","Apache", "HTTP", "Server"],
-      images:["assets/img/farmkem2.jpg","assets/img/visuecstock3.jpg","assets/img/visuecstock4.jpg"]
+      images:["assets/img/farmkem2.png","assets/img/farmkem3.png"]
     },
     el7l: {
       name: "el-7l Dating site",
