@@ -119,6 +119,13 @@ function show_project(name){
       skills:["software design","php","laravel","sql","Apis","payment gateways integration"],
       images:["assets/img/oscar2.png","assets/img/oscar3.png","assets/img/oscar.jpg"]
     },
+    rased:{
+      name:"Rased for Education notifications",
+      description:"A site for managing schools notifications and communications with parents. Innovative solutions have been found to communicate through various sms and WhatsApp service providers\
+      <br>The project was implemented on the Laravel framework.",
+      skills:["software design","php","laravel","sql","Apis","gateways integration"],
+      images:["assets/img/rased4.png","assets/img/rased2.png","assets/img/rased3.png"]
+    },
     ethra: {
       name: "Ethra for courses",
       description:"Participate in implementing and developing the project.\
@@ -156,6 +163,12 @@ function show_project(name){
       description:"classified ads website.",
       skills:["MySQL", "Web Development", "Codeigniter","PHP","OOP", "Database Architecture"],
       images:["assets/img/m7lat2.jpeg","assets/img/m7lat3.jpeg"]
+    },
+    aqarnet: {
+      name: "Aqar.Net for real estate",
+      description:"real estate ads website. build using native PHP",
+      skills:["MySQL", "Web Development","PHP","OOP", "Database Architecture"],
+      images:["assets/img/aqarnet2.png","assets/img/aqarnet3.png","assets/img/aqarnet4.png"]
     },
     oalalife: {
       name: "OalaLife",
